@@ -21,6 +21,10 @@ a {
     color: #33d684;
 }
 
+.list > div {
+    display: list-item;
+}
+
 .tg-item {
     margin: 1rem;
 }
