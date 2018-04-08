@@ -1,0 +1,2 @@
+# hcdev
+Hardcore Development Team
