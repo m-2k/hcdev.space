@@ -71,4 +71,8 @@ iframe.discord-widget {
     .fl {
         flex-direction: column;
     }
+    .tg-item .list {
+        width: 20rem;
+    }
+
 }
